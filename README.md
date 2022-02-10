@@ -1,2 +1,2 @@
 # Analytics-Project-repository
-# This  repository contains various analysis using Python with Jupiter Notebook. 
+# This  repository contains various data analysis by Python using Jupiter Notebook. 
